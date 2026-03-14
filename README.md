@@ -1,4 +1,4 @@
-# ooglexx_library v0.1.0
+# ooglexx_library v0.1.1
 A ready-to-rock `.lib` file for c++ developers to simplify typewriter effects in their console apps. 
 
 ## INFO
