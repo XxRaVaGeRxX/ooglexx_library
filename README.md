@@ -39,3 +39,6 @@ A ready-to-rock `.lib` file for c++ developers to simplify typewriter effects in
 >`falseloadf`= 50ms delay;
 >
 >`falseload` = 100ms delay;
+>
+#### SPECIAL STUFF
+>`writeFile` = write a file using writeFile("example.txt","This is a new text file for my app")
