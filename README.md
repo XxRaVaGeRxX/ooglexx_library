@@ -20,7 +20,13 @@ A ready-to-rock `.lib` file for c++ developers to simplify typewriter effects in
 >Link to your project in whichever ide you use;
 
 ## Current Functions For Use {All Are Typewriter style, Except Load Bar}
->`b_type` = 40ms delay; 
+>`b_type` = 40ms delay;
+>
+>`s_Type` = 60ms delay;
+>
+>`c_Type` = 80ms delay, Orange text for cautionary prompts, etc;
+>
+>`g_Type` = 40ms delay, Green text for positive prompts;
 >
 >`q_type` = 20ms delay;
 >
