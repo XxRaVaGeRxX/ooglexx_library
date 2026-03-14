@@ -3,6 +3,12 @@ A ready-to-rock `.lib` file for c++ developers to simplify typewriter effects in
 
 ## INFO
 > ooglexx is a simple add on to speed up development;
+>
+> The pre-made ooglexx header for your project can be found in `ooglexx_texttool.zip` or [Files_other](https://github.com/XxRaVaGeRxX/ooglexx_library/tree/master/Files_other)
+>
+> The source code can be found in [Files_source](https://github.com/XxRaVaGeRxX/ooglexx_library/tree/master/Files_source)
+>
+> A `.txt` info file is included with the zipped files for reference of function names, etc
 > 
 > More Coming Soon!;
 
